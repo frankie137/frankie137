@@ -8,4 +8,4 @@ Research in MLLMs for Audio Retrieval and Understanding
 
 Reach me:
 
-📧 Email: lfj@zju.edu.cn
+📧 Email: lfj@zju.edu.cn fengjiel137@gmail.com
