@@ -1,11 +1,28 @@
 ### Yoo, I'm Frankie Lu 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/frankie137)
+[![GitHub followers](https://img.shields.io/github/followers/frankie137?logo=github&label=Followers&labelColor=495867&color=495867&style=flat-square)](https://github.com/frankie137)
+[![Homepage](https://img.shields.io/badge/Homepage-frankie137.github.io-495867?style=flat-square)](https://frankie137.github.io)
 
-AI Master at College of Computer Science and Technology at [ZJU](https://www.zju.edu.cn) 
+🎧 Audio researcher at **Humanify AI**
 
-Research in MLLMs for Audio Retrieval and Understanding
+🎓 B.S. & M.S. at [Zhejiang University](https://www.zju.edu.cn) (College of Computer Science and Technology)
 
-Reach me:
+🔬 Research interests: large audio-language models, universal audio & speech retrieval, audio representation learning and tokenization
 
-📧 Email: lfj@zju.edu.cn fengjiel137@gmail.com
+#### 📝 Publications
+
+- **IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by *IChing***  
+  Heda Zuo, Junxian Wu, **Fengjie Lu**, Pei Chen, Lingyun Sun, Weitao You  
+  *ICML 2026* · [[OpenReview]](https://openreview.net/forum?id=Y3cUZ8fNnu) [[Code]](https://github.com/chouliuzuo/IVQ)
+
+- **ALM2Vec: Learning Audio Embeddings for Universal Audio Retrieval with Large Audio-Language Models**  
+  **Fengjie Lu**, Chenang Jiang, Jiarui Hai, Helin Wang, Aaron Yee  
+  *arXiv 2026* · [[arXiv]](https://arxiv.org/abs/2606.30682)
+
+- **VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval**  
+  Aaron Yee, **Fengjie Lu**, Jiarui Hai, Chenang Jiang, Helin Wang, Siwei Tu, Weitao You, Lingyun Sun  
+  *arXiv 2026* · [[arXiv]](https://arxiv.org/abs/2609.18521)
+
+#### 📫 Reach me
+
+lfj@zju.edu.cn · fengjiel137@gmail.com
