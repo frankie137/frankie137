@@ -23,6 +23,12 @@
   Aaron Yee, **Fengjie Lu**, Jiarui Hai, Chenang Jiang, Helin Wang, Siwei Tu, Weitao You, Lingyun Sun  
   *arXiv 2026* · [[arXiv]](https://arxiv.org/abs/2609.18521)
 
+#### 🛠️ Projects
+
+- **🦜 Solvane: Say it in Chinese, learn to say it in English**  
+  A WeChat mini program that turns what you want to say in Chinese into idiomatic English, explains key expressions, slang and cultural background, then helps you recite it with pronunciation scoring and share your recording as a lyrics-style page  
+  *uni-app (Vue 3 + TypeScript) · WeChat CloudBase · LLM · Tencent Cloud ASR/TTS* · [[Code]](https://github.com/frankie137/solvane)
+
 #### 📫 Reach me
 
 lfj@zju.edu.cn · fengjiel137@gmail.com
